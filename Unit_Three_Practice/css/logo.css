@@ -1,0 +1,32 @@
+html,
+body {
+    margin: 0;
+    background-color: springgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 12em;
+}
+
+a>img {
+    height: 20vh;
+    width: 20vw;
+}
+
+#header-nav {
+    background-color: yellow;
+    padding: 15px;
+    width: 100%;
+    height: 25vh;
+    color: green;
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
